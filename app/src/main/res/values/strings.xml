@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TwoActivities</string>
+    <string name="send">Send</string>
+    <string name="activity2_label">Second Activity</string>
+    <string name="message_recieved">Message Recieved</string>
+    <string name="delete_any_text_in_this_field">(delete any text in this field)</string>
+    <string name="EditText_hint_main">Enter Your Message Here</string>
 </resources>
